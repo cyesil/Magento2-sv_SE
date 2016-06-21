@@ -1,0 +1,51 @@
+"Read Details","Läs Detaljer"
+"Mark as Read","Markera Som Läst"
+"Are you sure?","Är du säker?"
+Remove,Ta Bort
+"Messages Inbox","Meddelanden Inbox"
+"You have %1 new system messages","Du har %1 nya systemmedelanden"
+"You have %1 new system message","Du har %1 nya systemmedelande"
+"Incoming Message","Inkommande Meddelande"
+close,stängt
+"Read details","Läs detaljer"
+Notifications,Aviseringar
+"The message has been marked as Read.","Meddelandet har markerats som läst."
+"We couldn't mark the notification as Read because of an error.","Vi kunde inte markeras som läst på grund av ett fel."
+"Please select messages.","Välj meddelanden."
+"A total of %1 record(s) have been marked as Read.","Totalt %1 meddelande(n)har markerats som läst."
+"The message has been removed.","Meddelandet har tagits bort."
+"We couldn't remove the messages because of an error.","Vi kunde inte ta bort meddelanden på grund av ett fel."
+"Total of %1 record(s) have been removed.","Totalt %1 meddelande(n) har tagits bort."
+"1 Hour","1 Timme"
+"2 Hours","2 Timmar"
+"6 Hours","6 Timmar"
+"12 Hours","12 Timmar"
+"24 Hours","24 Timmar"
+critical,kritisk
+major,major
+minor,minor
+notice,meddelande
+"Wrong message type","Fel meddelande typ"
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. It is highly recommended to change this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} rekommenderas inte för användning i en produktionsmiljö för att förklara Base Unsecure URL / Base Secure URL. Det rekommenderas att ändra detta värde i din Magento <a href=""%1"">konfiguration</a>."
+"One or more of the Cache Types are invalidated: %1. ","En eller flera av de cache-Typer ogiltigförklaras: %1. "
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Gå till <a href=""%1"">Cache Management</a> och uppdatera cache typer."
+"One or more media files failed to be synchronized during the media storages synchronization process. Refer to the log file for details.","En eller flera mediefiler kunde inte synkroniseras under medie förråd synkroniseringsprocessen . Se loggfilen för mer information."
+"Synchronization of media storages has been completed.","Synkronisering av lagringsmedia har slutförts ."
+"Your web server is configured incorrectly. As a result, configuration files with sensitive information are accessible from the outside. Please contact your hosting provider.","Din webbserver är felkonfigurerad. Som ett resultat, konfigurationsfiler med känslig information är tillgängliga från utsidan. Kontakta webbhotellet . "
+"We appreciate our merchants' feedback. Please <a href=""#"" data-mage-init=%1>take our survey</a> and tell us about features you'd like to see in Magento.","Vi uppskattar våra merchants' feedback. Vänligen <a href=""#"" data-mage-init=%1>svara på vår enkät</a> och berätta om funktioner du vill se i Magento. "
+"Close popup","Stängt popup"
+Close,Stängt
+"Critical System Messages","Kritiska Systemmeddelanden"
+"Major System Messages","Major System Meddelanden"
+"System messages","System meddelanden"
+Notification,Meddelande
+Cancel,Annulera
+Acknowledge,Erkänna
+"See All (%1 unread)","Se Allt (%1 unread)"
+Actions,Aktion
+Message,Meddelande
+"Use HTTPS to Get Feed","Använd HTTPS för att få Feed"
+"Update Frequency","Uppdatera Frekvens"
+"Last Update","Senaste Uppdateringen"
+Severity,Stränghet
+"Date Added","Datum Tillagt"

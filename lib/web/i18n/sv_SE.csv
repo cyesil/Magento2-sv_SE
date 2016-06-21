@@ -1,0 +1,22 @@
+"Insert Widget...","Lägg till Widget..."
+"No records found.","Inga uppgifter funna."
+"Recent items","Senast artikel"
+"Show all...","Visa alla..."
+"Method ","Metod "
+"Please wait...","Vänta..."
+"Please wait...","Vänta..."
+Loading...,Loading...
+Loading...,Loading...
+Cancel,Annulera
+Save,Spara
+Translate,Översätt
+Submit,Skicka
+Close,Stängt
+"Please enter a value less than or equal to %s.","Ange ett värde mindre än eller lika med %s."
+"Please enter a value greater than or equal to %s.","Ange ett värde som är större än eller lika med %s."
+"Maximum length of this field must be equal or less than %1 symbols.","Maximal längd på detta område måste vara lika med eller mindre än %1 symboler."
+"This is a required field.","Detta är ett obligatoriskt fält."
+"Please enter a valid year (1900-%1).","Ange ett giltigt år (1900-%1)."
+"Please enter a valid day (1-%1).","Ange en giltig dag (1-%1)."
+"Please enter a date in the past.","Ange ett datum i det förflutna."
+"Please enter a date between %min and %max.","Ange ett datum mellan %min och %max."
